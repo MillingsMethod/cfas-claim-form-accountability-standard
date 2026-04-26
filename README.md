@@ -102,3 +102,4 @@ A system is compliant if:
 - [ ] Resolution mechanism exists
 - [ ] Output qualification present
 - [ ] Claim-Form Gate active
+
