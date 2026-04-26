@@ -1,3 +1,4 @@
+CFAS v1.0: Add framework and core requirements
 cfas-claim-form-accountability-standard/
 │
 ├── README.md
